@@ -1,0 +1,35 @@
+# Don't track content of these folders
+.idea/
+.dist/
+asset/image/per-pic/*
+asset/image/per-cv/*
+asset/image/bran-pic/*
+shama.iml
+ostan.php
+list.html
+form_checkboxes_radios.html
+change.txt
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.so
