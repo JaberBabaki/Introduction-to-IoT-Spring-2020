@@ -1,7 +1,7 @@
 # Don't track content of these folders
 .idea/
 .dist/
-asset/image/per-pic/*
+related/*
 asset/image/per-cv/*
 asset/image/bran-pic/*
 shama.iml
