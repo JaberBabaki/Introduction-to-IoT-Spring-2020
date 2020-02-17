@@ -21,7 +21,7 @@ site IoT.txt
 *.rar
 *.tar
 *.zip
-
+~$*.*
 # Compiled source #
 ###################
 *.com
