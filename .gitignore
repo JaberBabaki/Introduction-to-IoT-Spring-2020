@@ -1,11 +1,10 @@
 # Don't track content of these folders
-.idea/
-.dist/
 related/*
-asset/image/per-cv/*
-asset/image/bran-pic/*
-shama.iml
-ostan.php
+IoT-course/*
+iot-course-master(1)/*
+lab amirkabir/IoT-lab-v1.docx
+lab amirkabir/IoT-lab-v1.pdf
+lab amirkabir/IoT-lab-v2.docx
 IoT-software.pptx
 present_1.pptx
 site IoT.txt
