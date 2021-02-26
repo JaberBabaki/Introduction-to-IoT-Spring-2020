@@ -1,7 +1,10 @@
 # Don't track content of these folders
 /related/*
-/Chapter-2/*
-/chapter-4/*
+Chapter-2/*.pdf
+chapter-4/*.pdf
+Assignment-03/*.wmv
+Assignment-04/*.wmv
+IoT-course
 lab amirkabir/IoT-lab-v1.docx
 lab amirkabir/IoT-lab-v1.pdf
 lab amirkabir/IoT-lab-v2.docx
