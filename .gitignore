@@ -1,11 +1,8 @@
 # Don't track content of these folders
 related/*
-IoT-course/*
-iot-course-master(1)/*
 lab amirkabir/IoT-lab-v1.docx
 lab amirkabir/IoT-lab-v1.pdf
 lab amirkabir/IoT-lab-v2.docx
-Chapter-2/an_introduction_to_electronics_printable.pdf
 IoT-software.pptx
 present_1.pptx
 site IoT.txt
