@@ -1,5 +1,7 @@
 # Don't track content of these folders
-related/*
+/related/*
+/Chapter-2/*
+/chapter-4/*
 lab amirkabir/IoT-lab-v1.docx
 lab amirkabir/IoT-lab-v1.pdf
 lab amirkabir/IoT-lab-v2.docx
