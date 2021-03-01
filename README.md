@@ -18,4 +18,6 @@ The purpose of this exercise is to learn more about LoRaWAN as an Internet of Th
 
 # IoT assignment #4 (design by jaber babaki)
 The purpose of this exercise is to become more familiar with and review the AMQP, HTTP, CoAP, MQTT protocols. In general, the Internet of Things has several protocols at different layers, each of which has a specific application and unique features. Therefore, in this exercise, implementation and exchange of information between nodes based on AMQP, HTTP, CoAP, MQTT protocol.
-![Repo List](https://github.com/jReskti/AI-2048Game/blob/master/picture/1.jpg)
+
+
+![Repo List](https://github.com/JaberBabaki/Introduction-to-IoT-Spring-2020/blob/master/Assignment-04/2021-03-01_234113.jpg)
