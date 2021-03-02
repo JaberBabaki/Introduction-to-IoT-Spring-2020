@@ -24,3 +24,5 @@ The purpose of this exercise is to become more familiar with and review the AMQP
 
 # IoT assignment #5 (design by jaber babaki)
 The purpose of this exercise is to become more familiar with and explore the IoT platform. In general, the IoT Platform (IoT Platform) plays a critical role in IoT architecture. An IoT platform facilitates communication, data flow, device management, and application performance.
+
+![Repo_List](https://github.com/JaberBabaki/Introduction-to-IoT-Spring-2020/blob/master/Assignment-05/2021-03-02_121945.jpg)
