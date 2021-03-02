@@ -6,6 +6,15 @@ This repository contains material and  assignment of  Introduction to the Intern
 * [shiva khazemi](https://github.com/Shiva-KT)
 * [parham alvani](https://github.com/1995parham)
 
+# list of components
+* Arduino Uno Rev3
+* ESP8266 NodeMCU CP2102
+* LoRa RFM95W 915MHz
+* DHT22
+* LDR
+* LED RGB WS2812
+* Motor DC
+
 # IoT assignment #1 (design by jaber babaki)
 The purpose of this exercise is to examine the functions and capabilities of the IoT node. In this exercise, we use the NodeMCU board as one of the IoT nodes. The NodeMCU board is an open-source hardware platform suitable for IoT projects that require wireless connectivity.
 To do this exercise, you will need a NodeMCU board, an LDR (Light Dependent Resistor), and an LED Light Emitting Diode.
